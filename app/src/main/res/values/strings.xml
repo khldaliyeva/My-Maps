@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">My Maps</string>
     <string name="title_activity_display_map">DisplayMapActivity</string>
+    <string name="cd_fab">Add Button</string>
+    <string name="title_activity_create_map">CreateMapActivity</string>
+    <string name="description_hint">Description</string>
+    <string name="title_hint">Title</string>
 </resources>
